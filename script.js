@@ -43,7 +43,13 @@ const hotelData = [
     pricing: 69420.0,
     rate: 500,
   },
-  
+  {
+    local: "Lençois Maranhenses",
+    name: "Hotel Noite Feliz",
+    src: "./assets/pexels-thorsten-technoman-338504.jpg",
+    pricing: 700.0,
+    rate: 3.5,
+  },
 ];
 
 const hotelListComponent = document.getElementById("card-list");
