@@ -37,6 +37,13 @@ const hotelData = [
     rate: 5,
   },
   {
+    local: "Pato Branco",
+    name: "A melhor casa",
+    src: "./assets/51xhXEttC+L._AC_UF894,1000_QL80_.jpg",
+    pricing: 69420.0,
+    rate: 500,
+  },
+  {
     local: "Lençois Maranhenses",
     name: "Hotel Noite Feliz",
     src: "./assets/pexels-thorsten-technoman-338504.jpg",
