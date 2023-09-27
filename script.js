@@ -36,6 +36,14 @@ const hotelData = [
     pricing: 600.0,
     rate: 5,
   },
+  {
+    local: "Pato Branco",
+    name: "A melhor casa",
+    src: "./assets/51xhXEttC+L._AC_UF894,1000_QL80_.jpg",
+    pricing: 69420.0,
+    rate: 500,
+  },
+  
 ];
 
 const hotelListComponent = document.getElementById("card-list");
